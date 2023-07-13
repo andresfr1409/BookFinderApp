@@ -28,7 +28,14 @@
                                 <h5 class="card-title">{{ book.title }}</h5>
                                 <p class="card-text">Autor: {{ book.author }}</p>
                                 <p class="card-text">Fecha de publicación: {{ book.published_date }}</p>
-                                <p class="card-text">Descripción: {{ book.description }}</p>
+                                <p class="card-text">Descripción: 
+                                    <span id="descriptionCollapse{{ loop.index }}" class="collapse">
+                                        <div id="descriptionCollapse{{ loop.index }}" class="collapse">
+                                            <p class="card-text">{{ book.description }}</p>
+                                        </div>
+                                    </span>
+                                    <a data-bs-toggle="collapse" href="#descriptionCollapse{{ loop.index }}" role="button" aria-expanded="false" aria-controls="descriptionCollapse{{ loop.index }}" class="ver-mas">Ver más</a>
+                                </p>
                                 <a href="{{ book.external_link }}" target="_blank" class="btn btn-info">Más información</a>
                             </div>
                         </div>
