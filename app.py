@@ -24,7 +24,8 @@ def index():
                 'published_date': item['volumeInfo'].get('publishedDate', 'N/A'),
                 'image_link': item['volumeInfo'].get('imageLinks', {}).get('thumbnail', ''),
                 'external_link': item['volumeInfo'].get('infoLink', '#'),
-                'description': item['volumeInfo'].get('description', 'N/A')
+                'description': item['volumeInfo'].get('description', 'N/A'),
+                'page_count': item['volumeInfo'].get('pageCount', 'N/A')
             }
             books.append(book)
         

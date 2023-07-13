@@ -9,6 +9,7 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 20px;
+    font-family: "Aharoni";
 }
 form {
     text-align: center 300px;
@@ -19,9 +20,11 @@ form {
 input[type="text"] {
     width: 300px;
     padding: 10px;
+    border: 2px solid #000000;
 }
 button[type="submit"] {
     padding: 10px 20px;
+    border: 2px solid #000000;
 }
 ul {
     list-style-type: none;
@@ -43,6 +46,7 @@ a {
 }
 h2 {
     text-align: center;
+    font-family: "Aharoni";
 }
 
 /* Estilos para la letra del título de los libros */
