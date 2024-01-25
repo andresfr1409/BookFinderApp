@@ -9,7 +9,7 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 20px;
-    font-family: "Aharoni";
+    font-family: "Arial";
 }
 form {
     text-align: center 300px;
@@ -46,7 +46,7 @@ a {
 }
 h2 {
     text-align: center;
-    font-family: "Aharoni";
+    font-family: "Arial";
 }
 
 /* Estilos para la letra del título de los libros */
@@ -62,12 +62,12 @@ h2 {
     font-size: 12px;
     color: #000000;
     font-weight: bold;
-    font-family: 'Bahnschrift SemiBold';
+    font-family: 'Arial';
     width: 530px;
 }   
 
 .ver-mas{
     font-size: 14px;
     font-weight: bold;
-    font-family: 'Bahnschrift SemiBold';
+    font-family: 'Arial';
 }
