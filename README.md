@@ -26,15 +26,15 @@ pendiente
 
 ## Tecnologias utilizadas
 
-- ### Flask
+### Flask
 
 - Se utilizo Flask para crear la aplicación web y gestionar las solicitudes del usuario.
 
-- ### HTML y CSS
+### HTML y CSS
 
 - HTML y CSS se combinan para crear una interfaz de usuario atractiva y amigable.
 
-- ### Bootstrap
+### Bootstrap
 
 - Bootstrap se utiliza para mejorar la apariencia y la experiencia del usuario, proporcionando un diseño consistente y agradable.
 
@@ -46,4 +46,4 @@ pendiente
 
 ## Uso 
 
-
+Una vez que la aplicación esté en ejecución, abre tu navegador y visita http://localhost:5000. Utiliza el buscador de libros para encontrar información detallada sobre tus libros favoritos. Explora los resultados y descubre nuevos títulos de manera sencilla.
