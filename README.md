@@ -8,7 +8,21 @@ BookFinderApp es una aplicación web desarrollada con Flask, HTML, CSS y Bootstr
 
 ## Capturas de Pantalla
 
-pendiente
+1. ### Seccion de busqueda
+
+![image](https://github.com/andresfr1409/BookFinderApp/assets/138944864/10821c6a-fcb5-4f83-98c2-388854144164)
+
+2. ### Busqueda de libro por su nombre haciendo una solicitud REQUEST.POST a la API
+
+![image](https://github.com/andresfr1409/BookFinderApp/assets/138944864/86cd5a90-7556-4c11-9713-999fba307744)
+
+3. ### Muestra de informacion del libro y resumen corto
+
+![image](https://github.com/andresfr1409/BookFinderApp/assets/138944864/9a1541eb-d917-4be1-ae74-a0a93d4a54e3)
+
+4. ### Redireccion al libro en Google Libros oprimiendo en Mas Informacion
+
+![image](https://github.com/andresfr1409/BookFinderApp/assets/138944864/c3925a36-be5e-4ab2-894e-c4030cbdaf94)
 
 ## Funcionalidades principales
 
