@@ -28,7 +28,7 @@ pendiente
 
 - ### Flask
 
-- Utilizamos Flask para crear la aplicación web y gestionar las solicitudes del usuario.
+- Se utilizo Flask para crear la aplicación web y gestionar las solicitudes del usuario.
 
 - ### HTML y CSS
 
@@ -36,4 +36,14 @@ pendiente
 
 - ### Bootstrap
 
-- 
+- Bootstrap se utiliza para mejorar la apariencia y la experiencia del usuario, proporcionando un diseño consistente y agradable.
+
+## Instalacion
+
+1. Clonar el repositorio
+2. Configurar el entorno virtual y instalar las dependencias con el comando "pip install -r requirements.txt".
+3. Ejecuta la aplicación directamente en el archivo app.py.
+
+## Uso 
+
+
