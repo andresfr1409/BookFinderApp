@@ -9,7 +9,6 @@ def index():
     if flask.request.method == 'POST':
         # Obtener la consulta de búsqueda ingresada por el usuario
         query = flask.request.form['query']
-        
         try:
             # se verifica si el campo de busqueda esta vacio
             if not query:
