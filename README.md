@@ -46,4 +46,4 @@ pendiente
 
 ## Uso 
 
-
+Una vez que la aplicación esté en ejecución, abre tu navegador y visita http://localhost:5000. Utiliza el buscador de libros para encontrar información detallada sobre tus libros favoritos. Explora los resultados y descubre nuevos títulos de manera sencilla.
